@@ -24,7 +24,7 @@ The main geographic area under consideration is the stretch of ocean that runs p
 | | |
 | --- | --- |
 |Seismic activity around the Juan de Fuca plate in April 2015.|<img width=1000 alt="hello" src=images/april2015JuandeFuca.png><br>Figure|
-|Five earthquakes occured by the Axial Seamount volcano.|<img width=1000 alt="hello" src=images/april2015.png><br>Figure|
+|Five earthquakes occured by the Axial Seamount volcano.|<img width=1000 height=70% alt="hello" src=images/april2015.png><br>Figure|
 |Maximum magnitude:4.2|<img width=1000 alt="hello" src=images/aprilMax.png><br>Figure|
 |Minimum magnitude:3.4|<img width=1000 alt="hello" src=images/aprilMin.png><br>Figure| 
 
