@@ -8,7 +8,7 @@ BME 450, Abadi<br>
 Colab Notebook: https://colab.research.google.com/drive/19VG1irDtv8cGk0huQu2QYrAJrzJ3d-em <br>
 
 ## Introduction
-Mapping of seismic activity at the intersection of the Juan De Fuca plate with the North American and Pacific plates from January 2010 to February 2020.
+Subterranean earthquakes are caused both by shifting of tectonic plates and erupting volcanoes, which are known to exist near subduction zones. This project involved mapping seismic activity from 2010 to 2020 around the Juan de Fuca plate, a tectonic plate that stretches from northern California to British Columbia. All earthquakes were visualized as circles with radii proportional to their magnitude. Green circles signify earthquakes of magnitude 2.5-3.3, orange circles magnitudes 3.3-5, and red circles magnitude 5 and over. Each section contains an interactive map with check boxes in the top-right corner for viewing earthquakes over time, showing and hiding relevant volcanoes and plate boundaries, and visualizing all seismic events at once. 
 
 <h2>Region of Observation</h2>
 
@@ -17,9 +17,8 @@ Mapping of seismic activity at the intersection of the Juan De Fuca plate with t
 | --- | --- |
 |Seismic activity around the Juan de Fuca plate from 2010 to 2020.|<img size=70% alt="hello" src=images/juandeFuca.png><br>Figure|
 
-
 <p>
-The main geographic area under consideration is the stretch of ocean that runs parallel to the Cascadia region, from Northern California through British Columbia. This region includes the Cascadia subduction zone, where the Juan de Fuca tectonic plate meets the North American tectonic plate, as well as the various boundary segments between the Juan de Fuca plate and the Pacific plate. In this data set, the minimum allowed earthquake magnitude was 2.5, the maximum was 6.8, and the mean was 3.287.
+The main geographic area under consideration is the stretch of ocean that runs parallel to the Cascadia region, from Northern California through British Columbia. This region includes the Cascadia subduction zone, where the Juan de Fuca tectonic plate meets the North American tectonic plate, as well as the various boundary segments between the Juan de Fuca plate and the Pacific plate. In this data set, the minimum allowed earthquake magnitude was 2.5, the maximum was 6.8 on 10/22/18 near Port Hardy, Canada, and the average magnitude was 3.287.
 </p>
 
 <h3>April 2015</h3>
@@ -63,8 +62,7 @@ The Mendocino Transform is one of the transform boundaries between the Juan de F
 </p>
 
 <h2>Conclusion</h2>
-
-
+In this project, seismic activity from around the Juan de Fuca plate between 2010 and 2020 was mapped according to three tiers of magnitudes: 2.5-3.3, 3.3-5, and over 5. It was found that practically all seismic activity occurs at plate boundaries, with transform and divergent boundaries showing more activity than convergent subduction boundaries. There was a large concentration of smaller magnitude earthquakes at the Mendecino Triple Junction, the point at which the Juan de Fuca, Pacific, and North American tectonic plates meet. Notably, in the same year between June 01 and June 02, there were sixteen earthquakes off the coast of Oregon, five of them greater than magnitude 5.
 
 <h2>References</h2>
 
