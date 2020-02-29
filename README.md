@@ -35,9 +35,10 @@ The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, 
 <h2>Divergent Boundary Region: The Gorda Ridge</h2>
 
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/divBound.html" target="_blank">Interactive Map</a> 
+
 | | |
 | --- | --- |
-|Tectonic activity in the Gorda Ridge.|<img size=70% alt="hello" src=images/divergent1.png><br>Figure|
+|Tectonic activity at the Gorda Ridge.|<img size=70% alt="hello" src=images/divergent1.png><br>Figure|
 |Three locations with higher concentrations of seismic activity.|<img alt="hello" src=images/divergentMarkers.png><br>Figure|
 
 <p>
@@ -47,6 +48,11 @@ The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plat
 <h2>Transform Boundary Region: The Mendocino Transform</h2>
 
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/tranBound.html" target="_blank">Interactive Map</a> 
+
+| | |
+| --- | --- |
+|Tectonic activity at the Mendocino Transform.|<img alt="hello" src=images/mendocino1.png><br>Figure|
+|The Mendocino Triple Junction.|<img alt="hello" src=images/mendocinoTriple.png><br>Figure|
 
 <p>
 The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. 
