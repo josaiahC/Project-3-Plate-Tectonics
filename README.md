@@ -24,7 +24,7 @@ The main geographic area under consideration is the stretch of ocean that runs p
 | | |
 | --- | --- |
 | Depth versus Time |
-|<font size="1"> Five earthquakes occured nearby the Axial Seamount volcano. </font>|<img width=1604 alt="hello" src=images/april2015.png><br>Figure|
+|<font size="100"> Five earthquakes occured nearby the Axial Seamount volcano. </font>|<img width=1604 alt="hello" src=images/april2015.png><br>Figure|
 |Maximum magnitude:4.2|<img width=1604 alt="hello" src=images/aprilMax.png><br>Figure|
 |Minimum magnitude:3.4|<img width=1604 alt="hello" src=images/aprilMin.png><br>Figure| 
 
