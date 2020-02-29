@@ -5,7 +5,7 @@ BME 450, Abadi<br>
 3/2/20<br>
 
 <h1>CODE</h1>
-Colab Notebook: https://colab.research.google.com/drive/19VG1irDtv8cGk0huQu2QYrAJrzJ3d-em <br>
+Colab Notebook: https://colab.research.google.com/drive/1tYCn34MjFsbbKVajOgtcz_TPPmx0NYih <br>
 
 ## Introduction
 Subterranean earthquakes are caused both by shifting of tectonic plates and erupting volcanoes, which are known to exist near subduction zones. This project involved mapping seismic activity from 2010 to 2020 around the Juan de Fuca plate, a tectonic plate that stretches from northern California to British Columbia. All earthquakes were visualized as circles with radii proportional to their magnitude. Green circles signify earthquakes of magnitude 2.5-3.3, orange circles magnitudes 3.3-5, and red circles magnitude 5 and over. Each section contains an interactive map with check boxes in the top-right corner for viewing earthquakes over time, showing and hiding relevant volcanoes and plate boundaries, and visualizing all seismic events at once. 
