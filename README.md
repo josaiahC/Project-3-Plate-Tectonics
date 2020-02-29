@@ -20,7 +20,10 @@ The main geographic area under consideration is the stretch of ocean that runs p
 
 <h3>April 2015</h3>
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/april2015.html" target="_blank">Interactive Map</a> 
-<p>
+
+| Winter | Summer | Fall |
+| --- | --- | --- |
+| Depth versus Time |
 |<img width=1069 alt="hello" src=images/volcano2.png><br>Figure|<img width=1069 alt="hello" src=images/volcano2.png><br>Figure|<img width=1069 alt="hello" src=images/volcano2.png><br>Figure| 
 
 <p>
