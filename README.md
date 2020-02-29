@@ -23,13 +23,13 @@ The main geographic area under consideration is the stretch of ocean that runs p
 
 | | |
 | --- | --- |
-| Depth versus Time |
-|Five earthquakes occured nearby the Axial Seamount volcano.|<img width=1400 alt="hello" src=images/april2015.png><br>Figure|
-|Maximum magnitude:4.2|<img width=1400 alt="hello" src=images/aprilMax.png><br>Figure|
-|Minimum magnitude:3.4|<img width=1400 alt="hello" src=images/aprilMin.png><br>Figure| 
+|Seismic activity around the Juan de Fuca plate in April 2015.|<img width=1000 alt="hello" src=images/april2015JuandeFuca.png><br>Figure|
+|Five earthquakes occured by the Axial Seamount volcano.|<img width=1000 alt="hello" src=images/april2015.png><br>Figure|
+|Maximum magnitude:4.2|<img width=1000 alt="hello" src=images/aprilMax.png><br>Figure|
+|Minimum magnitude:3.4|<img width=1000 alt="hello" src=images/aprilMin.png><br>Figure| 
 
 <p>
-In April 2015, the Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted
+The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, causing five earthquakes ranging from magnitude 3.4 to 4.2 (figures -).
 </p> 
 
 <h2>Divergent Boundary Region: The Gorda Ridge</h2>
