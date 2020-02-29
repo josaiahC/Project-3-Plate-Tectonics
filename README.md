@@ -24,9 +24,9 @@ The main geographic area under consideration is the stretch of ocean that runs p
 | | |
 | --- | --- |
 | Depth versus Time |
-|Five earthquakes occured nearby the Axial Seamount volcano.|<img width=1500 alt="hello" src=images/april2015.png><br>Figure|
-|Maximum magnitude:4.2|<img width=1500 alt="hello" src=images/aprilMax.png><br>Figure|
-|Minimum magnitude:3.4|<img width=1500 alt="hello" src=images/aprilMin.png><br>Figure| 
+|Five earthquakes occured nearby the Axial Seamount volcano.|<img width=1400 alt="hello" src=images/april2015.png><br>Figure|
+|Maximum magnitude:4.2|<img width=1400 alt="hello" src=images/aprilMax.png><br>Figure|
+|Minimum magnitude:3.4|<img width=1400 alt="hello" src=images/aprilMin.png><br>Figure| 
 
 <p>
 In April 2015, the Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted
