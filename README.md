@@ -13,6 +13,10 @@ Mapping of seismic activity at the intersection of the Juan De Fuca plate with t
 <h2>Region of Observation</h2>
 
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/fullSet.html" target="_blank">Interactive Map</a> 
+| | |
+| --- | --- |
+|Seismic activity around the Juan de Fuca plate from 2010 to 2020.|<img size=70% alt="hello" src=images/juandeFuca.png><br>Figure|
+
 
 <p>
 The main geographic area under consideration is the stretch of ocean that runs parallel to the Cascadia region, from Northern California through British Columbia. This region includes the Cascadia subduction zone, where the Juan de Fuca tectonic plate meets the North American tectonic plate, as well as the various boundary segments between the Juan de Fuca plate and the Pacific plate. In this data set, the minimum allowed earthquake magnitude was 2.5, the maximum was 6.8, and the mean was 3.287.
