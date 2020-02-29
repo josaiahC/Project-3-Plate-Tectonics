@@ -21,10 +21,12 @@ The main geographic area under consideration is the stretch of ocean that runs p
 <h3>April 2015</h3>
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/april2015.html" target="_blank">Interactive Map</a> 
 
-| Winter | Summer | Fall |
-| --- | --- | --- |
+| |
+| --- |
 | Depth versus Time |
-|<img width=1069 alt="hello" src=images/april2015.png><br>Figure|<img width=1069 alt="hello" src=images/aprilMax.png><br>Figure|<img width=1069 alt="hello" src=images/aprilMin.png><br>Figure| 
+|<img width=1200 alt="hello" src=images/april2015.png><br>Figure|
+|<img width=1200 alt="hello" src=images/aprilMax.png><br>Figure|
+|<img width=1200 alt="hello" src=images/aprilMin.png><br>Figure| 
 
 <p>
 In April 2015, the Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted
