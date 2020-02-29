@@ -41,7 +41,7 @@ The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, 
 |Three locations with higher concentrations of seismic activity.|<img alt="hello" src=images/divergentMarkers.png><br>Figure|
 
 <p>
-
+The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plate and the Pacific plate. Between 2010 and 2020, there is a noticeable concentration of seismic events in the data set at the three locations marked in figure . Since this is a divergent boundary, these locations could be spots where crust splitting is more prounced than other points along the ridge. 
 </p>
 
 <h2>Transform Boundary Region: The Mendocino Transform</h2>
@@ -49,7 +49,7 @@ The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, 
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/tranBound.html" target="_blank">Interactive Map</a> 
 
 <p>
-  
+The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. 
 </p>
 
 <h2>Conclusion</h2>
