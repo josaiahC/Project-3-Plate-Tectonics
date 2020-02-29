@@ -55,7 +55,7 @@ The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plat
 |The Mendocino Triple Junction.|<img alt="hello" src=images/mendocinoTriple.png><br>Figure|
 
 <p>
-The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. 
+The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. From 2010 to 2020, there are many earthquakes along the entire boundary, most of which are below a magnitude of 3.3. Ten of the earthquakes around the Mendocino Transform in this data set are over magnitude five, exceeding the number of major earthquakes in the Gorda Ridge region by three. One area where earthquakes appear to be concentrated is near the Mendocino Triple Junction (figure ), where the Juan de Fuca plate meets with the North American and Pacific plates. 
 </p>
 
 <h2>Conclusion</h2>
