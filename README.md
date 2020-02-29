@@ -21,7 +21,7 @@ The main geographic area under consideration is the stretch of ocean that runs p
 <h3>April 2015</h3>
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/april2015.html" target="_blank">Interactive Map</a> 
 <p>
-In April 2015, 
+In April 2015, the Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted
 </p> 
 
 <h2>Divergent Boundary Region: The Gorda Ridge</h2>
@@ -46,5 +46,5 @@ In April 2015,
 
 <h2>References</h2>
 
-1. Dziak, R. P., et al. “Explosive Processes during the 2015 Eruption of Axial Seamount, as Recorded by<br>
+1. Caplan‐Auerbach, J., et al. “Explosive Processes during the 2015 Eruption of Axial Seamount, as Recorded by<br>
 Seafloor Hydrophones.” AGU Journals, John Wiley & Sons, Ltd, 12 Apr. 2017,<br> agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GC006734.
