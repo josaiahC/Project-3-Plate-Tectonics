@@ -15,7 +15,7 @@ Subterranean earthquakes are caused both by shifting of tectonic plates and erup
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/fullSet.html" target="_blank">Interactive Map</a> 
 | | |
 | --- | --- |
-|Seismic activity around the Juan de Fuca plate from 2010 to 2020.|<img size=70% alt="hello" src=images/juandeFuca.png><br>Figure|
+|Seismic activity around the Juan de Fuca plate from 2010 to 2020.|<img size=70% alt="hello" src=images/juandeFuca.png><br>Figure 1|
 
 <p>
 The main geographic area under consideration is the stretch of ocean that runs parallel to the Cascadia region, from Northern California through British Columbia. This region includes the Cascadia subduction zone, where the Juan de Fuca tectonic plate meets the North American tectonic plate, as well as the various boundary segments between the Juan de Fuca plate and the Pacific plate. In this data set, the minimum allowed earthquake magnitude was 2.5, the maximum was 6.8 on 10/22/18 near Port Hardy, Canada, and the average magnitude was 3.287.
@@ -26,13 +26,13 @@ The main geographic area under consideration is the stretch of ocean that runs p
 
 | | |
 | --- | --- |
-|Seismic activity around the Juan de Fuca plate in April 2015.|<img size=70% alt="hello" src=images/april2015JuandeFuca.png><br>Figure|
-|Five earthquakes occured by the Axial Seamount volcano.|<img alt="hello" src=images/april2015.png><br>Figure|
-|Maximum magnitude:4.2|<img alt="hello" src=images/aprilMax.png><br>Figure|
-|Minimum magnitude:3.4|<img alt="hello" src=images/aprilMin.png><br>Figure| 
+|Seismic activity around the Juan de Fuca plate in April 2015.|<img size=70% alt="hello" src=images/april2015JuandeFuca.png><br>Figure 2|
+|Five earthquakes occured by the Axial Seamount volcano.|<img alt="hello" src=images/april2015.png><br>Figure 3|
+|Maximum magnitude:4.2|<img alt="hello" src=images/aprilMax.png><br>Figure 4|
+|Minimum magnitude:3.4|<img alt="hello" src=images/aprilMin.png><br>Figure 5| 
 
 <p>
-The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, causing five earthquakes ranging from magnitude 3.4 to 4.2 (figures -).
+The Axial Seamount volcano on the Juan de Fuca Ridge (Caplan‐Auerbach et al) erupted in April 2015, causing five earthquakes ranging from magnitude 3.4 to 4.2 (figures 4-5).
 </p> 
 
 <h2>Divergent Boundary Region: The Gorda Ridge</h2>
@@ -41,11 +41,11 @@ The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, 
 
 | | |
 | --- | --- |
-|Tectonic activity at the Gorda Ridge.|<img size=70% alt="hello" src=images/divergent1.png><br>Figure|
-|Three locations with higher concentrations of seismic activity.|<img alt="hello" src=images/divergentMarkers.png><br>Figure|
+|Tectonic activity at the Gorda Ridge.|<img size=70% alt="hello" src=images/divergent1.png><br>Figure 6|
+|Three locations along the Gorda Ridge with higher concentrations of seismic activity.|<img alt="hello" src=images/divergentMarkers.png><br>Figure 7|
 
 <p>
-The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plate and the Pacific plate. Between 2010 and 2020, there is a noticeable concentration of seismic events in the data set at the three locations marked in figure . Since this is a divergent boundary, these locations could be spots where crust splitting is more prounced than other points along the ridge. 
+The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plate and the Pacific plate. Between 2010 and 2020, there is a noticeable concentration of seismic events in the data set at the three locations marked in figure 7. Since this is a divergent boundary, these locations could be spots where crust splitting is more prounced than other points along the ridge. 
 </p>
 
 <h2>Transform Boundary Region: The Mendocino Transform</h2>
@@ -54,11 +54,11 @@ The Gorda Ridge is one of the divergent boundaries between the Juan de Fuca plat
 
 | | |
 | --- | --- |
-|Tectonic activity at the Mendocino Transform.|<img alt="hello" src=images/mendocino1.png><br>Figure|
-|The Mendocino Triple Junction.|<img alt="hello" src=images/mendocinoTriple.png><br>Figure|
+|Tectonic activity at the Mendocino Transform.|<img alt="hello" src=images/mendocino1.png><br>Figure 8|
+|The Mendocino Triple Junction.|<img alt="hello" src=images/mendocinoTriple.png><br>Figure 9|
 
 <p>
-The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. From 2010 to 2020, there are many earthquakes along the entire boundary, most of which are below a magnitude of 3.3. Ten of the earthquakes around the Mendocino Transform in this data set are over magnitude five, exceeding the number of major earthquakes in the Gorda Ridge region by three. One area where earthquakes appear to be concentrated is near the Mendocino Triple Junction (figure ), where the Juan de Fuca plate meets with the North American and Pacific plates. 
+The Mendocino Transform is one of the transform boundaries between the Juan de Fuca plate and the North American plate. From 2010 to 2020, there are many earthquakes along the entire boundary, most of which are below a magnitude of 3.3. Ten of the earthquakes around the Mendocino Transform in this data set are over magnitude five, exceeding the number of major earthquakes in the Gorda Ridge region by three. One area where earthquakes appear to be concentrated is near the Mendocino Triple Junction (figure 9), where the Juan de Fuca plate meets with the North American and Pacific plates. 
 </p>
 
 <h2>Conclusion</h2>
