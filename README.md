@@ -21,9 +21,7 @@ The main geographic area under consideration is the stretch of ocean that runs p
 <h3>April 2015</h3>
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/april2015.html" target="_blank">Interactive Map</a> 
 <p>
-<img alt="hello" src=images/volcano2.png><br>Figure 
-<img alt="hello" src=images/volcano2.png><br>Figure 
-<img alt="hello" src=images/volcano2.png><br>Figure 
+|<img width=1069 alt="hello" src=images/volcano2.png><br>Figure|<img width=1069 alt="hello" src=images/volcano2.png><br>Figure|<img width=1069 alt="hello" src=images/volcano2.png><br>Figure| 
 
 <p>
 In April 2015, the Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted
