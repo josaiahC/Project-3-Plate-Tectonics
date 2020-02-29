@@ -35,6 +35,10 @@ The Axial Seamount volcano on the Juan de Fuca Ridge (1) erupted in April 2015, 
 <h2>Divergent Boundary Region: The Gorda Ridge</h2>
 
 <a href="https://josaiahc.github.io/Project-3-Plate-Tectonics/divBound.html" target="_blank">Interactive Map</a> 
+| | |
+| --- | --- |
+|Tectonic activity in the Gorda Ridge.|<img size=70% alt="hello" src=images/divergent1.png><br>Figure|
+|Three locations with higher concentrations of seismic activity.|<img alt="hello" src=images/divergentMarkers.png><br>Figure|
 
 <p>
 
